@@ -16,4 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <!-- daily.dev BOOKMARKS:START -->
+- [How to See Beautiful Git Project Stats in Your Terminal](https://app.daily.dev/posts/DKfYKrTWy?utm_source=rss&utm_medium=bookmarks&utm_campaign=Pkz0XOXGkQ9Ucdi5Fo1gY)
+- [WireSpy is a Sleek New Debug Bar for Laravel Livewire](https://app.daily.dev/posts/tj28bVH70?utm_source=rss&utm_medium=bookmarks&utm_campaign=Pkz0XOXGkQ9Ucdi5Fo1gY)
+- [I just came across this interactive ui library and decided to share.](https://app.daily.dev/posts/z8sCgN3g9?utm_source=rss&utm_medium=bookmarks&utm_campaign=Pkz0XOXGkQ9Ucdi5Fo1gY)
+- [Create your own AI coding assistant with Continue and Ollama](https://app.daily.dev/posts/oQFxxpqq9?utm_source=rss&utm_medium=bookmarks&utm_campaign=Pkz0XOXGkQ9Ucdi5Fo1gY)
+- [No title](https://app.daily.dev/posts/p2l18raay?utm_source=rss&utm_medium=bookmarks&utm_campaign=Pkz0XOXGkQ9Ucdi5Fo1gY)
 <!-- daily.dev BOOKMARKS:END -->
