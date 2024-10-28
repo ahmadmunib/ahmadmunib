@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Getting started with modern GIS using DuckDB](https://app.daily.dev/posts/6alsPZLpW?utm_source=rss&utm_medium=bookmarks&utm_campaign=Pkz0XOXGkQ9Ucdi5Fo1gY)
 - [No title](https://app.daily.dev/posts/HFxn8nziq?utm_source=rss&utm_medium=bookmarks&utm_campaign=Pkz0XOXGkQ9Ucdi5Fo1gY)
 - [Open Source Self-hosted Document Signing](https://app.daily.dev/posts/GdDhnwK5V?utm_source=rss&utm_medium=bookmarks&utm_campaign=Pkz0XOXGkQ9Ucdi5Fo1gY)
 - [Leveraging Laravel&#39;s built in driver functionality](https://app.daily.dev/posts/cFmbyMztp?utm_source=rss&utm_medium=bookmarks&utm_campaign=Pkz0XOXGkQ9Ucdi5Fo1gY)
 - [Create Fun Word Cloud Images Easily in Linux Terminal](https://app.daily.dev/posts/tsIHOVRfS?utm_source=rss&utm_medium=bookmarks&utm_campaign=Pkz0XOXGkQ9Ucdi5Fo1gY)
-- [Adding Terminal Effects with Python](https://app.daily.dev/posts/wmDgJZ9fG?utm_source=rss&utm_medium=bookmarks&utm_campaign=Pkz0XOXGkQ9Ucdi5Fo1gY)
 <!-- daily.dev BOOKMARKS:END -->
