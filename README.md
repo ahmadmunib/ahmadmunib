@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Open source tool for creating beautiful user flow prototypes](https://app.daily.dev/posts/4KEW1SsF9?utm_source=rss&utm_medium=bookmarks&utm_campaign=Pkz0XOXGkQ9Ucdi5Fo1gY)
 - [No title](https://app.daily.dev/posts/x3EyzOz6V?utm_source=rss&utm_medium=bookmarks&utm_campaign=Pkz0XOXGkQ9Ucdi5Fo1gY)
 - [5 Must-Have Automation Tools You Must Try as a Developer!](https://app.daily.dev/posts/nd59HRNZV?utm_source=rss&utm_medium=bookmarks&utm_campaign=Pkz0XOXGkQ9Ucdi5Fo1gY)
 - [The Best Three.js Resources in One Place](https://app.daily.dev/posts/RqlFnAGje?utm_source=rss&utm_medium=bookmarks&utm_campaign=Pkz0XOXGkQ9Ucdi5Fo1gY)
 - [How to Rewrite a Web Application](https://app.daily.dev/posts/GFGIjW81Z?utm_source=rss&utm_medium=bookmarks&utm_campaign=Pkz0XOXGkQ9Ucdi5Fo1gY)
-- [Visualize GitHub repos, projects, and more](https://app.daily.dev/posts/5sRUt90IK?utm_source=rss&utm_medium=bookmarks&utm_campaign=Pkz0XOXGkQ9Ucdi5Fo1gY)
 <!-- daily.dev BOOKMARKS:END -->
