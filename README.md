@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Melt UI](https://app.daily.dev/posts/fd3JEkA3H?utm_source=rss&utm_medium=bookmarks&utm_campaign=Pkz0XOXGkQ9Ucdi5Fo1gY)
 - [API Platform is Coming to Laravel: A Unified Tool for the PHP Ecosystem](https://app.daily.dev/posts/wAgqlgYHX?utm_source=rss&utm_medium=bookmarks&utm_campaign=Pkz0XOXGkQ9Ucdi5Fo1gY)
 - [Radiate intent](https://app.daily.dev/posts/krWDAMj7u?utm_source=rss&utm_medium=bookmarks&utm_campaign=Pkz0XOXGkQ9Ucdi5Fo1gY)
 - [No title](https://app.daily.dev/posts/MfasrtgdD?utm_source=rss&utm_medium=bookmarks&utm_campaign=Pkz0XOXGkQ9Ucdi5Fo1gY)
 - [Particle js](https://app.daily.dev/posts/A4aPyJ4Sv?utm_source=rss&utm_medium=bookmarks&utm_campaign=Pkz0XOXGkQ9Ucdi5Fo1gY)
-- [1500+ Free HTML Website Templates on HTMLrev](https://app.daily.dev/posts/5Z17QqtkD?utm_source=rss&utm_medium=bookmarks&utm_campaign=Pkz0XOXGkQ9Ucdi5Fo1gY)
 <!-- daily.dev BOOKMARKS:END -->
