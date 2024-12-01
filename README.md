@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- daily.dev BOOKMARKS:START -->
+- [9 Open Source Projects Every Developer Needs to Bookmark](https://app.daily.dev/posts/wyMkzrl7l?utm_source=rss&utm_medium=bookmarks&utm_campaign=Pkz0XOXGkQ9Ucdi5Fo1gY)
 - [No title](https://app.daily.dev/posts/zNm9QXn8s?utm_source=rss&utm_medium=bookmarks&utm_campaign=Pkz0XOXGkQ9Ucdi5Fo1gY)
 - [Ollama-OCR makes it easy to recognize high-quality text with just a few lines of code!
 
@@ -28,5 +29,4 @@ Features
 - 💪 Robust error handling](https://app.daily.dev/posts/ue1WVI2Ec?utm_source=rss&utm_medium=bookmarks&utm_campaign=Pkz0XOXGkQ9Ucdi5Fo1gY)
 - [A curated list of amazingly awesome PHP libraries, resources and shiny things &lpar;Part 2&rpar;](https://app.daily.dev/posts/thqCDCMJk?utm_source=rss&utm_medium=bookmarks&utm_campaign=Pkz0XOXGkQ9Ucdi5Fo1gY)
 - [10,000+ Themes for ShadCN UI.](https://app.daily.dev/posts/PxTx5c09L?utm_source=rss&utm_medium=bookmarks&utm_campaign=Pkz0XOXGkQ9Ucdi5Fo1gY)
-- [Learn how to build realtime location tracking solution with Laravel , Pulsetracker and python .](https://app.daily.dev/posts/9XH7m0Cl1?utm_source=rss&utm_medium=bookmarks&utm_campaign=Pkz0XOXGkQ9Ucdi5Fo1gY)
 <!-- daily.dev BOOKMARKS:END -->
