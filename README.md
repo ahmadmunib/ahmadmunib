@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- daily.dev BOOKMARKS:START -->
+- [How to create an OS from scratch!](https://app.daily.dev/posts/CdrBtvJik?utm_source=rss&utm_medium=bookmarks&utm_campaign=Pkz0XOXGkQ9Ucdi5Fo1gY)
 - [How to Set Up Next.js 15 for Production in 2024](https://app.daily.dev/posts/gTohToX62?utm_source=rss&utm_medium=bookmarks&utm_campaign=Pkz0XOXGkQ9Ucdi5Fo1gY)
 - [9 Open Source Projects Every Developer Needs to Bookmark](https://app.daily.dev/posts/wyMkzrl7l?utm_source=rss&utm_medium=bookmarks&utm_campaign=Pkz0XOXGkQ9Ucdi5Fo1gY)
 - [No title](https://app.daily.dev/posts/zNm9QXn8s?utm_source=rss&utm_medium=bookmarks&utm_campaign=Pkz0XOXGkQ9Ucdi5Fo1gY)
@@ -28,5 +29,4 @@ Features
 - ⚡️ Customizable recognition prompts and models
 - 🔍 Markdown output format option
 - 💪 Robust error handling](https://app.daily.dev/posts/ue1WVI2Ec?utm_source=rss&utm_medium=bookmarks&utm_campaign=Pkz0XOXGkQ9Ucdi5Fo1gY)
-- [A curated list of amazingly awesome PHP libraries, resources and shiny things &lpar;Part 2&rpar;](https://app.daily.dev/posts/thqCDCMJk?utm_source=rss&utm_medium=bookmarks&utm_campaign=Pkz0XOXGkQ9Ucdi5Fo1gY)
 <!-- daily.dev BOOKMARKS:END -->
