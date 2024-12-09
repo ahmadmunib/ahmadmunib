@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- daily.dev BOOKMARKS:START -->
+- [SEO in Next.js - The Ultimate Guide &lpar;Metadata, Sitemap, Robots, Google Search Console, Caching&rpar;](https://app.daily.dev/posts/HkcQD5JB8?utm_source=rss&utm_medium=bookmarks&utm_campaign=Pkz0XOXGkQ9Ucdi5Fo1gY)
 - [Real-time Laravel reverb with nextjs
 
 Set up a Laravel project
@@ -27,5 +28,4 @@ Sync data between applications](https://app.daily.dev/posts/b5BeyVg3A?utm_source
 - [Lightweight Charts™ library — TradingView](https://app.daily.dev/posts/jMYdha395?utm_source=rss&utm_medium=bookmarks&utm_campaign=Pkz0XOXGkQ9Ucdi5Fo1gY)
 - [clickbar/laravel-magellan: A modern PostGIS toolbox for Laravel](https://app.daily.dev/posts/FsEV9xqcP?utm_source=rss&utm_medium=bookmarks&utm_campaign=Pkz0XOXGkQ9Ucdi5Fo1gY)
 - [How to create an OS from scratch!](https://app.daily.dev/posts/CdrBtvJik?utm_source=rss&utm_medium=bookmarks&utm_campaign=Pkz0XOXGkQ9Ucdi5Fo1gY)
-- [How to Set Up Next.js 15 for Production in 2024](https://app.daily.dev/posts/gTohToX62?utm_source=rss&utm_medium=bookmarks&utm_campaign=Pkz0XOXGkQ9Ucdi5Fo1gY)
 <!-- daily.dev BOOKMARKS:END -->
