@@ -16,16 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <!-- daily.dev BOOKMARKS:START -->
+- [WakaTime – Automatic Time Tracking for Developers](https://app.daily.dev/posts/Lo5ZB3ub2?utm_source=rss&utm_medium=bookmarks&utm_campaign=Pkz0XOXGkQ9Ucdi5Fo1gY)
 - [GitAnimals - Nurture your own pet based on your GitHub activity](https://app.daily.dev/posts/UmsjFBuQO?utm_source=rss&utm_medium=bookmarks&utm_campaign=Pkz0XOXGkQ9Ucdi5Fo1gY)
 - [Language Stats](https://app.daily.dev/posts/qRYZhtYhC?utm_source=rss&utm_medium=bookmarks&utm_campaign=Pkz0XOXGkQ9Ucdi5Fo1gY)
 - [Wirechat - A robust Laravel livewire chat package](https://app.daily.dev/posts/BPmQKZWEh?utm_source=rss&utm_medium=bookmarks&utm_campaign=Pkz0XOXGkQ9Ucdi5Fo1gY)
 - [SEO in Next.js - The Ultimate Guide &lpar;Metadata, Sitemap, Robots, Google Search Console, Caching&rpar;](https://app.daily.dev/posts/HkcQD5JB8?utm_source=rss&utm_medium=bookmarks&utm_campaign=Pkz0XOXGkQ9Ucdi5Fo1gY)
-- [Real-time Laravel reverb with nextjs
-
-Set up a Laravel project
-Install next-breeze
-Implement game logic
-Use Laravel Pail for debugging
-Create and listen to events with laravel reverb
-Sync data between applications](https://app.daily.dev/posts/b5BeyVg3A?utm_source=rss&utm_medium=bookmarks&utm_campaign=Pkz0XOXGkQ9Ucdi5Fo1gY)
 <!-- daily.dev BOOKMARKS:END -->
